@@ -1,0 +1,74 @@
+[
+    {
+        "firstName":"Will.I.Am",
+        "lastName":"BlackBoy",
+        "favHobby":"Sex",
+        "criminal":"False",
+        "dreamCars":[
+            {
+                "carName":"Opel",
+                "engineCapicity":"9",
+                "model":"Corsa"
+            },
+            {
+                "carName":"Elias",
+                "engineCapicity":"4.7",
+                "model":"BigDickEnergy"
+            }
+        ]
+    },
+{
+    "firstName":"The Juan",
+    "lastName":"Bukster",
+    "favHobby":"Rukking",
+    "criminal":"False",
+    "dreamCars":[
+        {
+            "carName":"Isuzu",
+            "engineCapicity":"3.0",
+            "model":"Mundayne"
+        },
+        {
+            "carName":"Mitsubishi",
+            "engineCapicity":"4.7",
+            "model":"Evo"
+        }
+    ]
+},
+{
+    "firstName":"Eli Pielie",
+    "lastName":"Small Dick",
+    "favHobby":"Making kak jokes",
+    "criminal":"True",
+    "dreamCars":[
+        {
+            "carName":"Merc W123",
+            "engineCapicity":"7",
+            "model":"123"
+        },
+        {
+            "carName":"BMW",
+            "engineCapicity":"3.0",
+            "model":"X3 2024"
+        }
+    ]
+},
+{
+    "firstName":"Luke Smuke",
+    "lastName":"Mr. No Nut November",
+    "favHobby":"Watching Men Pee",
+    "criminal":"True",
+    "dreamCars":[
+        {
+            "carName":"Legs",
+            "engineCapicity":"0.1",
+            "model":"No Legs"
+        },
+        {
+            "carName":"Tollie",
+            "engineCapicity":"8",
+            "model":"Juans Tollie"
+        }
+    ]
+}
+]
